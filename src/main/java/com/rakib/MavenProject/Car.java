@@ -1,0 +1,11 @@
+package com.rakib.MavenProject;
+
+public class Car implements Vehicle {
+	
+	public void drive()
+	{
+		System.out.println("my car");
+	}
+	 
+
+}
